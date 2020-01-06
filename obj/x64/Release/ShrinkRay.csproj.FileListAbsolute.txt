@@ -1,0 +1,7 @@
+D:\VisualStudio\projects\00_VSprojects\ShrinkRay\bin\x64\Release\ShrinkRay.dll
+D:\VisualStudio\projects\00_VSprojects\ShrinkRay\bin\x64\Release\ShrinkRay.pdb
+D:\VisualStudio\projects\00_VSprojects\ShrinkRay\bin\x64\Release\ScriptHookRDRNetAPI.dll
+D:\VisualStudio\projects\00_VSprojects\ShrinkRay\obj\x64\Release\ShrinkRay.csprojAssemblyReference.cache
+D:\VisualStudio\projects\00_VSprojects\ShrinkRay\obj\x64\Release\ShrinkRay.csproj.CopyComplete
+D:\VisualStudio\projects\00_VSprojects\ShrinkRay\obj\x64\Release\ShrinkRay.dll
+D:\VisualStudio\projects\00_VSprojects\ShrinkRay\obj\x64\Release\ShrinkRay.pdb
